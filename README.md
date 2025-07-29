@@ -19,10 +19,11 @@ Each bead is a draggable circle. Users can freely move them around to create the
 
 # Tech Used:
 
-Python 3
-Pygame
+- Python 3
+- Pygame
 
 # Screenshots:
+
 Use the "Screenshot" button in the app to save your layout as an image.
 
 # Future Improvements:
