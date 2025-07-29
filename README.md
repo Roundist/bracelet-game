@@ -1,5 +1,5 @@
 # bracelet-game
-A cool game to design bracelets
+A cool game to design bracelets. There are two versions. The original one is the one I used and the new-version is the one I occasionally work on to make the game more asthetically pleasing.
 
 # Bracelet Game:
 
