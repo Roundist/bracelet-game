@@ -1,30 +1,36 @@
 # bracelet-game
 A cool game to design bracelets
 
-Bracelet Game:
+# Bracelet Game:
+
 Python program built with Pygame to help prototype bracelet designs. This tool was originally developed to assist in designing customizable bracelets for a Junior Achievement company.
 
-Features:
+# Features:
+
 - Buttons to add beads
 - Drag & Drop
 - Clear Canvas
 - Screenshot
 – Trash bin bottom left (drag beads to delete)
 
-How It Works:
+# How It Works:
+
 Each bead is a draggable circle. Users can freely move them around to create their ideal bracelet design. A "delete zone" (grey square) at the bottom of the screen to delete a controlled number of beads.
 
-Tech Used:
+# Tech Used:
+
 Python 3
 Pygame
 
-Screenshots:
+# Screenshots:
 Use the "Screenshot" button in the app to save your layout as an image.
 
-Future Improvements:
+# Future Improvements:
+
 -Add a bead color picker
 -Export designs to a shareable format
 -Web-based version (React or Canvas)
 
-Why I Built This:
+# Why I Built This:
+
 We needed a faster way to design bracelets for customers.
