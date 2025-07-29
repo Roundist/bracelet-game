@@ -27,10 +27,6 @@ Use the "Screenshot" button in the app to save your layout as an image.
 
 # Future Improvements:
 
--Add a bead color picker
--Export designs to a shareable format
--Web-based version (React or Canvas)
-
-# Why I Built This:
-
-We needed a faster way to design bracelets for customers.
+- Add a bead color picker
+- Export designs to a shareable format
+- Web-based version (React or Canvas)
